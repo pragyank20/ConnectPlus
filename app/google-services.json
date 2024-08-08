@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "151693809503",
+    "firebase_url": "https://connectplus-d9aa3-default-rtdb.firebaseio.com",
+    "project_id": "connectplus-d9aa3",
+    "storage_bucket": "connectplus-d9aa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151693809503:android:f6dc8e354f70ee7e7a08ea",
+        "android_client_info": {
+          "package_name": "com.ConnectPlus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3G-qATA6Aj2tAOyK1GxrIgfpHEqgs8PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151693809503:android:742ec15a42f6931c7a08ea",
+        "android_client_info": {
+          "package_name": "com.av.avmessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3G-qATA6Aj2tAOyK1GxrIgfpHEqgs8PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
